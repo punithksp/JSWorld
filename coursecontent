@@ -9,9 +9,12 @@
 8)VariableScope
 9)array and Methods
 10)objects
+11)shollowcopy deepcopy
 11)function
 12)this keyword
-13)call back function
-14)apply bind call
-15)asynch
-16)dom
+13)spread Operator 
+14)destructring array and object
+15)call back function
+16)call apply bind
+17)asynch
+18)dom
